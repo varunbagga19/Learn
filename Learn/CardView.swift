@@ -27,7 +27,7 @@ struct CardView: View {
                     .foregroundColor(.green)
                     .frame(width:UIScreen.main.bounds.width-60,height: 60)
                     .overlay {
-                        Text("This is varun branch")
+                        Text("This is varun branch,Just learning Git")
                     }
             }
             .padding()
